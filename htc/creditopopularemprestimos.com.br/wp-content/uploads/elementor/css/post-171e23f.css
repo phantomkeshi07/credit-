@@ -1,0 +1,36 @@
+.elementor-171 .elementor-element.elementor-element-2da321b:not(.elementor-motion-effects-element-type-background), .elementor-171 .elementor-element.elementor-element-2da321b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2023/06/cp-ita.jpg");background-position:0px -109px;background-size:cover;}.elementor-171 .elementor-element.elementor-element-2da321b > .elementor-background-overlay{background-color:var( --e-global-color-secondary );opacity:0.79;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-171 .elementor-element.elementor-element-2da321b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:7% 0% 7% 0%;}.elementor-171 .elementor-element.elementor-element-9310a5b{text-align:center;color:#FFFFFF;font-family:"Brahma", Sans-serif;font-size:50px;font-weight:bold;}.elementor-171 .elementor-element.elementor-element-9310a5b > .elementor-widget-container{margin:0px 0px -25px 0px;}.elementor-171 .elementor-element.elementor-element-0626f95:not(.elementor-motion-effects-element-type-background), .elementor-171 .elementor-element.elementor-element-0626f95 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-171 .elementor-element.elementor-element-0626f95{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:10% 0% 9% 0%;}.elementor-171 .elementor-element.elementor-element-0626f95 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-171 .elementor-element.elementor-element-af9e2bf.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-171 .elementor-element.elementor-element-af9e2bf.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-171 .elementor-element.elementor-element-c8b2991 img{width:67%;}.elementor-171 .elementor-element.elementor-element-936cac2{color:var( --e-global-color-secondary );font-family:"Brahma", Sans-serif;font-weight:bold;text-transform:uppercase;}.elementor-171 .elementor-element.elementor-element-936cac2 > .elementor-widget-container{margin:0px 0px -15px 0px;}.elementor-171 .elementor-element.elementor-element-b18e4f1{color:var( --e-global-color-secondary );}:root{--page-title-display:none;}@media(min-width:768px){.elementor-171 .elementor-element.elementor-element-af9e2bf{width:44.213%;}.elementor-171 .elementor-element.elementor-element-5690401{width:55.7%;}}@media(max-width:767px){.elementor-171 .elementor-element.elementor-element-2da321b{padding:14% 0% 11% 0%;}.elementor-171 .elementor-element.elementor-element-9310a5b{font-size:32px;line-height:0.9em;letter-spacing:0.1px;}.elementor-171 .elementor-element.elementor-element-9310a5b > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-171 .elementor-element.elementor-element-0626f95{padding:0% 7% 18% 7%;}.elementor-171 .elementor-element.elementor-element-af9e2bf > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 27px 0px 0px;}.elementor-171 .elementor-element.elementor-element-c8b2991 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-171 .elementor-element.elementor-element-936cac2{text-align:justify;font-size:16px;}.elementor-171 .elementor-element.elementor-element-b18e4f1{text-align:justify;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Brahma';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2022/02/Tall-Chai-Brahma-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Brahma';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2022/02/Tall-Chai-Brahma-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Brahma';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/02/Tall-Chai-Brahma-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Brahma';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../2022/02/Tall-Chai-Brahma-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Brahma';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2022/02/Tall-Chai-Brahma-ExtraLight.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

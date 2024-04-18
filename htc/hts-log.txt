@@ -1,0 +1,116 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 17 Apr 2024 21:04:50 at https://creditopopularemprestimos.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr20%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://creditopopularemprestimos.com.br/ -O1 "C:\Users\Phantom\Desktop\ht\htc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:05:35	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://creditopopularemprestimos.com.br/)
+21:06:35	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:06:35	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:06:35	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+21:06:35	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+21:06:36	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=558
+21:06:36	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=558 to https://creditopopularemprestimos.com.br/agencias/
+21:07:59	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=989
+21:07:59	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=989 to https://creditopopularemprestimos.com.br/representante-legal/
+21:08:00	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=171
+21:08:00	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=171 to https://creditopopularemprestimos.com.br/sobre-nos/
+21:08:00	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=598
+21:08:00	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=598 to https://creditopopularemprestimos.com.br/fale-conosco/
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1151
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1151 to https://creditopopularemprestimos.com.br/anicuns
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fanicuns (from https://creditopopularemprestimos.com.br/anicuns)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fanicuns&format=xml (from https://creditopopularemprestimos.com.br/anicuns)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1211
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1211 to https://creditopopularemprestimos.com.br/caldas-novas
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fcaldas-novas (from https://creditopopularemprestimos.com.br/caldas-novas)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fcaldas-novas&format=xml (from https://creditopopularemprestimos.com.br/caldas-novas)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1212
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1212 to https://creditopopularemprestimos.com.br/ceres
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fceres (from https://creditopopularemprestimos.com.br/ceres)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fceres&format=xml (from https://creditopopularemprestimos.com.br/ceres)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1213
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1213 to https://creditopopularemprestimos.com.br/crixas
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fcrixas (from https://creditopopularemprestimos.com.br/crixas)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fcrixas&format=xml (from https://creditopopularemprestimos.com.br/crixas)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1214
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1214 to https://creditopopularemprestimos.com.br/goiatuba
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fgoiatuba (from https://creditopopularemprestimos.com.br/goiatuba)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fgoiatuba&format=xml (from https://creditopopularemprestimos.com.br/goiatuba)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1215
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1215 to https://creditopopularemprestimos.com.br/goianesia
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fgoianesia (from https://creditopopularemprestimos.com.br/goianesia)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fgoianesia&format=xml (from https://creditopopularemprestimos.com.br/goianesia)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1216
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1216 to https://creditopopularemprestimos.com.br/goias
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fgoias (from https://creditopopularemprestimos.com.br/goias)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fgoias&format=xml (from https://creditopopularemprestimos.com.br/goias)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1217
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1217 to https://creditopopularemprestimos.com.br/inhumas
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Finhumas (from https://creditopopularemprestimos.com.br/inhumas)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Finhumas&format=xml (from https://creditopopularemprestimos.com.br/inhumas)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1218
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1218 to https://creditopopularemprestimos.com.br/itaberai
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fitaberai (from https://creditopopularemprestimos.com.br/itaberai)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fitaberai&format=xml (from https://creditopopularemprestimos.com.br/itaberai)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1219
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1219 to https://creditopopularemprestimos.com.br/itapuranga
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fitapuranga (from https://creditopopularemprestimos.com.br/itapuranga)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fitapuranga&format=xml (from https://creditopopularemprestimos.com.br/itapuranga)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1220
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1220 to https://creditopopularemprestimos.com.br/itaucu
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fitaucu (from https://creditopopularemprestimos.com.br/itaucu)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fitaucu&format=xml (from https://creditopopularemprestimos.com.br/itaucu)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1221
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1221 to https://creditopopularemprestimos.com.br/jaragua
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fjaragua (from https://creditopopularemprestimos.com.br/jaragua)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fjaragua&format=xml (from https://creditopopularemprestimos.com.br/jaragua)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1222
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1222 to https://creditopopularemprestimos.com.br/jatai
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fjatai (from https://creditopopularemprestimos.com.br/jatai)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fjatai&format=xml (from https://creditopopularemprestimos.com.br/jatai)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1223
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1223 to https://creditopopularemprestimos.com.br/minacu
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fminacu (from https://creditopopularemprestimos.com.br/minacu)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fminacu&format=xml (from https://creditopopularemprestimos.com.br/minacu)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1224
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1224 to https://creditopopularemprestimos.com.br/mineiros
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fmineiros (from https://creditopopularemprestimos.com.br/mineiros)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fmineiros&format=xml (from https://creditopopularemprestimos.com.br/mineiros)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1225
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1225 to https://creditopopularemprestimos.com.br/morrinhos
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fmorrinhos (from https://creditopopularemprestimos.com.br/morrinhos)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fmorrinhos&format=xml (from https://creditopopularemprestimos.com.br/morrinhos)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1226
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1226 to https://creditopopularemprestimos.com.br/mozarlandia
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fmozarlandia (from https://creditopopularemprestimos.com.br/mozarlandia)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fmozarlandia&format=xml (from https://creditopopularemprestimos.com.br/mozarlandia)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1227
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1227 to https://creditopopularemprestimos.com.br/niquelandia
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fniquelandia (from https://creditopopularemprestimos.com.br/niquelandia)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fniquelandia&format=xml (from https://creditopopularemprestimos.com.br/niquelandia)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1228
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1228 to https://creditopopularemprestimos.com.br/quirinopolis
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fquirinopolis (from https://creditopopularemprestimos.com.br/quirinopolis)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fquirinopolis&format=xml (from https://creditopopularemprestimos.com.br/quirinopolis)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1229
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1229 to https://creditopopularemprestimos.com.br/sao-luis-de-montes-belos
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fsao-luis-de-montes-belos (from https://creditopopularemprestimos.com.br/sao-luis-de-montes-belos)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fsao-luis-de-montes-belos&format=xml (from https://creditopopularemprestimos.com.br/sao-luis-de-montes-belos)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1230
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1230 to https://creditopopularemprestimos.com.br/sao-miguel-do-araguaia
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fsao-miguel-do-araguaia (from https://creditopopularemprestimos.com.br/sao-miguel-do-araguaia)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Fsao-miguel-do-araguaia&format=xml (from https://creditopopularemprestimos.com.br/sao-miguel-do-araguaia)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1231
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1231 to https://creditopopularemprestimos.com.br/trindade
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Ftrindade (from https://creditopopularemprestimos.com.br/trindade)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Ftrindade&format=xml (from https://creditopopularemprestimos.com.br/trindade)
+21:08:02	Warning: 	Moved Permanently for https://creditopopularemprestimos.com.br/?p=1232
+21:08:02	Warning: 	File has moved from https://creditopopularemprestimos.com.br/?p=1232 to https://creditopopularemprestimos.com.br/uruacu
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Furuacu (from https://creditopopularemprestimos.com.br/uruacu)
+21:08:02	Error: 	"Not Found" (404) at link https://creditopopularemprestimos.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcreditopopularemprestimos.com.br%2Furuacu&format=xml (from https://creditopopularemprestimos.com.br/uruacu)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 20 seconds : 300 links scanned, 220 files written (16944545 bytes overall) [8455322 bytes received at 42276 bytes/sec], 14183379 bytes transferred using HTTP compression in 245 files, ratio 37%, 12.1 requests per connection
+(51 errors, 54 warnings, 0 messages)
